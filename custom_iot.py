@@ -1,0 +1,1 @@
+print("Hi there, welcome to custom IoT edge CI/CD!")
